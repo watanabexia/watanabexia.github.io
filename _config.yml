@@ -21,9 +21,9 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: CalmBanks                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: 晨间无风之畔   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -32,31 +32,31 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://watanabexia.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: watanabexia             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: xiatongguang            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: 夏同光
+  email: qingyangxu99@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/xiatongguang      # change to your twitter homepage
+    - https://github.com/watanabexia       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/qingyang-xu-367111180
 
-google_site_verification:               # fill in to your verification string
+google_site_verification: rKCMazLY9E3Y8wKBmxaIsnfW6Sjo21MgH8CiFwG91iw              # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id:                 # fill in your Google Analytics ID
+  id: 'G-BY1Z2BNRFQ'                # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: 'assets/img/avatar.jpg'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
