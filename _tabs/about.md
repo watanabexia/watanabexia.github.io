@@ -6,7 +6,7 @@ order: 4
 # About Me
 
 > TL;DR: a random degenerate.
-{: .prompt-info }
+{: .prompt-tip }
 
 
 I have multiple names. Feel free to call me in anyway as you wish!
